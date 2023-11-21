@@ -12,3 +12,6 @@ Projeto de montagem do blog [História em detalhes](https://historianosdetalhes.
 
 - David, Danilo e Theo-> Desenvolvimento da seção main do código
 - Maria Isabel-> Desenvolver o header e o footer
+
+## Atualizações realizadas
+![image](https://github.com/danilousGois/montagem-com-git/assets/40152718/41d36a68-4aa3-471f-aa80-301f7c6b5bd3)
