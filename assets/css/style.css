@@ -68,7 +68,7 @@ body {
     right: 0;
 }
 #video-with-display {
-    background-image: radial-gradient(50% 50% at 50% 50%, rgba(34, 34, 34, 0.84) 30.52%, rgba(34, 34, 34, 0.31) 100%), url(imagens/img-4.png);
+    background-image: radial-gradient(50% 50% at 50% 50%, rgba(34, 34, 34, 0.84) 30.52%, rgba(34, 34, 34, 0.31) 100%), url(../images/img-4.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
