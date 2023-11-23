@@ -261,6 +261,7 @@ h1{
     position: absolute;
     right: 0;
 }
+
 #video-with-display {
     background-image: radial-gradient(50% 50% at 50% 50%, rgba(34, 34, 34, 0.84) 30.52%, rgba(34, 34, 34, 0.31) 100%), url(../images/img-4.png);
     background-position: center;
