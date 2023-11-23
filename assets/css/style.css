@@ -163,7 +163,6 @@ h1{
 
 .flex-row {
     display: flex;
-    flex-direction: row;
 }
 
 .flex-column {
@@ -229,4 +228,144 @@ h1{
 
 #img-3 .card-text{
     width: 147px;
+}
+
+#post-series, .footer-container {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#title-posts-series {
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 800; 
+    margin-bottom: 0;
+}
+
+.subtitle-post-series {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300; 
+}
+
+.red-a {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300; 
+    color: #EB5151;
+    text-decoration: none;
+}
+
+.posts-series-top-secundary-text, .footer-secundary-text {
+    font-weight: 700;
+    color: #EB5151;
+    width: 245px; 
+}
+
+.red-a, .posts-series-top-secundary-text {
+    margin-top: 23px;
+    margin-bottom: 15px;
+}
+
+.posts-series-bottom-secundary-text {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400; 
+    color: #EB5151;
+    padding-top: 9px;
+    position: absolute;
+    bottom: 5px;
+    width: 245px; 
+}
+
+.blue-a {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 300; 
+    color: #8D9AA6;
+    text-decoration: none;
+}
+
+.red-line {
+    width: 239px;
+    height: 1px;
+    background-color: #EB5151; 
+    position: absolute;
+    bottom: 45px;
+}
+
+.posts-series-card {
+    width: 280px;
+    height: 260px; 
+    border: solid 1px #EB5151;
+    box-sizing: border-box;
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#posts-series-cards {
+    column-gap: 27px;
+    width: 1240px;
+}
+
+.posts-cards-main-text {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700; 
+    color: #C11616;
+    width: 245px;
+}
+
+.links-posts-series {
+    width: 1200px;
+    margin-top: 8px;
+}
+
+#arrow-more {
+    align-self: flex-end;
+}
+
+footer {
+    margin-top: 120px;
+}
+
+.footer-top {
+    width: 1456px;
+    height: 220px; 
+    background-color: #F9FAFC;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 130px;
+    box-sizing: border-box;
+}
+
+.footer-li, .link-footer {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400; 
+    color: #3C4B58;
+}
+
+#footer-ul {
+    list-style: none;
+    text-align: right;
+    row-gap: 8px;
+}
+
+.red-line-footer {
+    width: 60px;
+    height: 1px; 
+    background-color: #C11616;
+    margin-top: 22px;
+    margin-left: 23px;
+}
+
+.footer-bottom {
+    width: 1447px;
+    height: 52px;
+    background-color: #EFF2F7; 
+    justify-content: center;
+    align-items: center;
 }
